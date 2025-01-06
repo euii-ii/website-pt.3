@@ -18,13 +18,12 @@ Installation
 Follow these steps to get a local copy up and running:
 
 Clone the Repository
-
-bash
 Copy code
-git clone https://github.com/your-username/3d-website.git  
+
+git clone https://github.com/euii-ii/website-pt.3.git
+
 Navigate to the Project Directory
 
-bash
 Copy code
 cd 3d-website  
 Open the Project
